@@ -1,6 +1,6 @@
 # Observer Crawler
 
-This is a Python web crawler for the 暗卡 (Dark Card) website,  
+This is a Python web crawler for the 暗卡 (Dark Card) website,  which is contains the posts and comments of the Dcard website.
 The crawler uses the Jupyter Notebook format and outputs the crawled data in JSON format.
 The crawled data have post and comment information, including the post's title, content, media, and comments.
 
